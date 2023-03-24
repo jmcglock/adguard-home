@@ -4,3 +4,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://o0.pages.dev/Pro/adblock.txt
 https://nsfw.oisd.nl/
 https://big.oisd.nl/
+https://raw.githubusercontent.com/jmcglock/adguard-home/main/dns-blocklist.txt
+# allowlist
+https://raw.githubusercontent.com/jmcglock/adguard-home/main/dns-allowlist.txt
