@@ -1,2 +1,2 @@
-# adguard-home
-My personal adguard-home lists.
+# Adguard Home
+## My personal adguard-home lists

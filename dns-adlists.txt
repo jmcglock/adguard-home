@@ -1,0 +1,6 @@
+# I only use these lists on my adguard-home server
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://o0.pages.dev/Pro/adblock.txt
+https://nsfw.oisd.nl/
+https://big.oisd.nl/
