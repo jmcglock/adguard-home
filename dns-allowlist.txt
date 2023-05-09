@@ -46,13 +46,10 @@
 @@||peacocktv.com^
 @@||pinimg.com^
 @@||rancher.io^
-@@||samsung.com^
 @@||scdn.co^
-@@||shentel.net^
 @@||simplelogin.io^
 @@||soundcloud.com^
 @@||spotify.com^
-@@||tidal.com^
 @@||typekit.net^
 @@||ubuntu.com^
 @@||ui.com^
