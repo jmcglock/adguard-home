@@ -40,6 +40,7 @@
 ||surveys.hotjar.com^
 ||careers.hotjar.com^
 ||events.hotjar.io^
+||metrics.icloud.com^
 ||mouseflow.com^
 ||api.mouseflow.com^
 ||tools.mouseflow.com^
@@ -144,3 +145,6 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+||maps-analytics-events.apple.com^
+||searchads.apple.com^
+||ads.mopub.com^
