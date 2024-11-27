@@ -1,8 +1,0 @@
-# I only use these lists on my adguard-home server
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
-https://raw.githubusercontent.com/jmcglock/adguard-home/main/dns-blocklist.txt
-https://big.oisd.nl/
-https://nsfw.oisd.nl/
-# allowlist
-https://raw.githubusercontent.com/jmcglock/adguard-home/main/dns-allowlist.txt
