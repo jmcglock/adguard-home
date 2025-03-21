@@ -42,7 +42,6 @@
 @@||hulu.hb-api.omtrdc.net^
 @@||megaphone.fm^
 @@||nbcsports.com^
-@@||peacocktv.com^
 
 # Sports
 @@||dcf.espn.com^
