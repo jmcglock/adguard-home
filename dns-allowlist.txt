@@ -6,7 +6,6 @@
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 # DNS Allowlist for Adguard Home
 @@||akamai.net^
-@@||ads-fa-darwin.hulustream.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
 @@||apple.com^
@@ -17,7 +16,6 @@
 @@||cloudflare.com^
 @@||cybertron.id.peacocktv.com^
 @@||dcf.espn.com^
-@@||demdex.net^
 @@||discordapp.com^
 @@||espn.com^
 @@||espncdn.com^
@@ -31,7 +29,6 @@
 @@||googleapis.com^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
-@@||hulu.hb-api.omtrdc.net^
 @@||i.instagram.com^
 @@||imageservice.disco.peacocktv.com^
 @@||intuit.com^
@@ -42,7 +39,6 @@
 @@||nbcsports.com^
 @@||nerdfonts.com^
 @@||nextdns.io^
-@@||omtrdc.net^
 @@||ovp.peacocktv.com^
 @@||pconfig-prd.cdn.peacocktv.com^
 @@||peacocktv.com^
@@ -61,7 +57,6 @@
 @@||typekit.net^
 @@||ubuntu.com^
 @@||ui.com^
-@@||urbanairship.com^
 @@||visualstudio.com^
 @@||windows.com^
 @@||windowsupdate.com^

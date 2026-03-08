@@ -47,6 +47,7 @@
 ||data.mistat.xiaomi.com^
 ||doubleclick.net^
 ||events.hotjar.io^
+||events.reddit.com^
 ||events3alt.adcolony.com^
 ||g008-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
 ||g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
@@ -70,6 +71,7 @@
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pixel.facebook.com^
+||pixel.linkedin.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||script.hotjar.com^
@@ -83,8 +85,11 @@
 ||stats.g.doubleclick.net^
 ||surveys.hotjar.com^
 ||tools.mouseflow.com^
+||telemetry.microsoft.com^
 ||tr.iadsdk.apple.com^
+||tr.snapchat.com^
 ||userdata.sr.roku.com^
+||vortex.data.microsoft.com^
 ||video-ads-module.ad-tech.nbcuni.com^
 ||wd.adcolony.com^
 ||weather-analytics-events.apple.com^
